@@ -1,4 +1,4 @@
-package PMSPackage;
+package practiceprograms;
 
 public class exception1 {
 

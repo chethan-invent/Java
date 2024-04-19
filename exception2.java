@@ -1,4 +1,4 @@
-package PMSPackage;
+package practiceprograms;
 
 public class exception2 {	
 		static void checkEmployeeSalary(Employee1 emp) throws EmpSalaryException{
